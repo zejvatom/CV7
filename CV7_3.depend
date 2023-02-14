@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1676406161 source:d:\school\avsi\pia\cv7_3\cv7_3\main.cpp
+	<iostream>
+	<memory>
+	"Tvar.h"
+	"Kruh.h"
+	"Kyticka.h"
+
+1676406161 d:\school\avsi\pia\cv7_3\cv7_3\include\tvar.h
+
+1676408490 d:\school\avsi\pia\cv7_3\cv7_3\include\kruh.h
+	"Tvar.h"
+
+1676406161 d:\school\avsi\pia\cv7_3\cv7_3\include\kyticka.h
+
+1676406161 source:d:\school\avsi\pia\cv7_3\cv7_3\src\kyticka.cpp
+	<cmath>
+	"Tvar.h"
+	"Kyticka.h"
+
+1676406161 source:d:\school\avsi\pia\cv7_3\cv7_3\src\tvar.cpp
+	<cmath>
+	"Tvar.h"
+
+1676406704 source:d:\school\avsi\pia\cv7_3\cv7_3\src\kruh.cpp
+	"Kruh.h"
+	"Tvar.h"
+	<iostream>
+	<cmath>
+
